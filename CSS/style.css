@@ -1,0 +1,88 @@
+body {
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.text-area {
+    padding-top: 70px;
+    padding-left: 200px;
+}
+
+.anchor {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 20px;
+    color: white;
+    font-weight: 400;
+}
+
+.silver-pera {
+    color: rgb(109, 87, 87);
+}
+
+.bottom {
+    margin-bottom: 50px;
+}
+
+.second {
+    width: 50%;
+}
+
+.second img {
+
+    width: 60%;
+    padding-left: 40%;
+
+}
+
+.text-area2 {
+
+    padding-top: 70px;
+    padding-left: 200px;
+    padding-right: 150px;
+
+}
+
+.second-frame {
+    background-image: url(Images/second-background.png);
+    background-repeat: no-repeat;
+
+    float: right;
+}
+
+.h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.recipie {
+    text-align: center;
+    padding: 30%;
+    color: rgb(114, 108, 108);
+}

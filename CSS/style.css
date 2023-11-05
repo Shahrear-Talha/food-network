@@ -89,10 +89,6 @@ h1 {
     color: rgb(114, 108, 108);
 }
 
-.recipie-images {
-    display: flex;
-}
-
 .column {
     border-radius: 2%;
     padding: 1%;
@@ -100,4 +96,16 @@ h1 {
     margin-left: 5%;
     box-shadow: 1px 2px 1px 2px rgb(231, 224, 224);
     text-align: justify;
+}
+
+.followers {
+    padding: 2%;
+    text-align: center;
+}
+
+.shadow-back {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25%;
+    box-shadow: 1px 2px 3px 5px silver;
 }
